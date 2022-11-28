@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fliege;Jürgen;;;
+N:Jürgen Fliege
+ORG:ARD
+TITLE:Pfarrer
+TEL;TYPE=WORK,VOICE:01755
+NOTE:Hatte mal eine Talkshow
+EMAIL;TYPE=PREF,INTERNET:dhsze@ddd.de
+END:VCARD
